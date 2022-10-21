@@ -1,0 +1,225 @@
+body{
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+}
+.logo{
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+
+
+
+.nav-link{
+    color: #fff;
+    text-shadow: 0 0 5px black;
+}
+
+.prop-dest{
+    padding: 10px;
+    text-shadow: 0 0 2px white;
+}
+
+img{
+    max-width: 100%;
+    padding: 10px;
+    align-items: center;
+    
+}
+
+article.card{
+    max-width: 350px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 1rem;
+    box-shadow: 0 0 12px white;
+}
+
+.header-card img{
+    border-radius: 8px 8px 0 0;
+    max-height: 200px;
+    height: 200px;
+    width: 100%;
+    
+}
+
+.categoria-card{
+    margin-top: 1rem;
+}
+
+.categoria-card span{
+    background-color: #25c4d8;
+    color: #fff;
+    padding: .2rem .5rem;
+    border-radius: 4px;
+}
+
+.card footer{
+    padding: 0 1rem;
+}
+
+
+
+.formulario-con{
+    width: 28.125em;
+    margin: 6.25em;
+    background: rgba(0,0,0,0.4);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 20px;
+ 
+    
+}
+
+.text-area{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    min-height: 6.25em;
+    max-height: 12.5em;
+}
+
+#boton{
+    background: #31384a;
+    color: #fff;
+    padding: 20px;
+    border-color: transparent;
+    border-radius: 10px;
+}
+
+#boton:hover{
+    cursor:pointer;
+}
+
+
+/*----Jumbotron nosotros----*/
+
+.jumbotron{
+    background-image: url(../Images/iocenters-g0d45d9651_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+    border-radius: 0px;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+/*---- fin Jumbotron nosotros----*/
+
+/*----aside Alquiler----*/
+
+.nleft{
+    background-image: url(../Images/house-g9460892a9_1920.jpg);
+    background-size :cover ;
+    background-position: center;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.nleft1{
+    background-image: url(../Images/notepad-g62a8fbc9f_1920.jpg);
+    background-size :cover ;
+    background-position: center;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+.nright h3{
+    text-align: center;
+    
+}
+
+.row{
+    padding: 20px;
+}
+.item{
+    height: 250px;
+    border: 2px solid #000;
+}
+
+.item1{
+    background-image: url(../Images/house-g54defd174_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.item2{
+    background-image: url(../Images/house-g9460892a9_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.item3{
+    background-image: url(../Images/alquiler.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.item4{
+    background-image: url(../Images/Venta1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.item5{
+    background-image: url(../Images/house-g54defd174_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.item6{
+    background-image: url(../Images/house-g54defd174_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.item7{
+    background-image: url(../Images/house-g54defd174_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.item7{
+    background-image: url(../Images/house-g54defd174_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.item8{
+    background-image: url(../Images/holiday-home-g322932423_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*---- footer----*/
+
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center; 
+    font-size: 30px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
